@@ -1,0 +1,12 @@
+D:\С#\задание по выч теху\the calculation of the cooling system\the calculation of the cooling system\bin\Debug\the calculation of the cooling system.exe.config
+D:\С#\задание по выч теху\the calculation of the cooling system\the calculation of the cooling system\bin\Debug\the calculation of the cooling system.exe
+D:\С#\задание по выч теху\the calculation of the cooling system\the calculation of the cooling system\bin\Debug\the calculation of the cooling system.pdb
+D:\С#\задание по выч теху\the calculation of the cooling system\the calculation of the cooling system\obj\Debug\the calculation of the cooling system.csprojResolveAssemblyReference.cache
+D:\С#\задание по выч теху\the calculation of the cooling system\the calculation of the cooling system\obj\Debug\the_calculation_of_the_cooling_system.Form1.resources
+D:\С#\задание по выч теху\the calculation of the cooling system\the calculation of the cooling system\obj\Debug\the_calculation_of_the_cooling_system.Properties.Resources.resources
+D:\С#\задание по выч теху\the calculation of the cooling system\the calculation of the cooling system\obj\Debug\the calculation of the cooling system.csproj.GenerateResource.Cache
+D:\С#\задание по выч теху\the calculation of the cooling system\the calculation of the cooling system\obj\Debug\the calculation of the cooling system.exe
+D:\С#\задание по выч теху\the calculation of the cooling system\the calculation of the cooling system\obj\Debug\the calculation of the cooling system.pdb
+D:\С#\задание по выч теху\the calculation of the cooling system\the calculation of the cooling system\obj\Debug\the_calculation_of_the_cooling_system.AboutBox1.resources
+D:\С#\задание по выч теху\the calculation of the cooling system\the calculation of the cooling system\obj\Debug\the_calculation_of_the_cooling_system.Form2.resources
+D:\С#\задание по выч теху\the calculation of the cooling system\the calculation of the cooling system\obj\Debug\the_calculation_of_the_cooling_system.Form3.resources
